@@ -1,19 +1,19 @@
 123456
 jesus
-    221 123456
-     63 jesus
-     58 password
-     46 12345678
-     36 christ
-     29 love
-     27 princess
-     25 jesus1
-     24 sunshine
-     23 1234567
-     21 blessed
-     20 angel
-     19 lovely
-     17 mother
+123456
+jesus
+password
+12345678
+christ
+love
+princess
+jesus1
+sunshine
+1234567
+blessed
+angel
+lovely
+mother
      17 iloveyou
      16 blessing
      16 angels
