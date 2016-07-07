@@ -1,0 +1,125 @@
+/* WP Hardening - 2016-06-19 19:09:32.520829 */
+allwords Large miscellaneous dictionary
+sg_words IRIX /usr/dict
+ul_words Ultrix /usr/dict
+mts MTS dictionary
+minix Minix /usr/dict
+web2a Websters dictionary, obscure terms
+numbers Common numbers
+web2 Webster's dicionary
+n_norweg Norwegian names
+famous Famous people
+n_female Female names
+n_french French names
+n_family Family names
+sf Science fiction words
+shakespe Words from Shakespeare
+sports Sporting terms
+n_surnam Surnames
+n_swed Swedish names
+n_male Male names
+myths-le Words from myths and legends
+n_people Misc people's names
+kjbible Words from the King James bible
+hosts Computer names
+abbr Abbreviations
+asteroid Names of asteroids
+biology Biology terms
+cartoon Cartoon and comic names
+chars Random collections of chars
+afr_dbf Africaans words
+common-p Common passwords
+n_given Given names
+phrases Slang, common sayings
+places Place names
+yiddish Yiddish words
+dutch Dutch words
+n_names General collection of names
+norwegia Norwegian words
+all-word Large miscellaneous dictionary
+english English words
+n_common Common names
+junk Misc "junk" words
+cracklib cracklib25 dictionary
+n_chines 18th century Chinese names
+sindarin Sindarin words
+n_mgerma Medieval German names
+finnish Finnish words
+chinese Chinese syllables
+russian_ Russian words (7-bit)
+n_actors Actor given names
+n_actor2 Actor surnames
+aeneid Nouns from the Aenid
+arthur Nouns from Legends of Arthur
+cartoons Names of comic strips
+charlema Nouns from Legends of Charlemagne
+n_statis Statisticians' given names
+n_stati2 Statisticians' surnames
+crl-name Ctr.Lexicog.Res. names
+dogs Dog words
+drugs Drug-related street terms
+fable Nouns from classic myths
+n_fast Fast name dictionary
+n_femal2 Female names
+danish Danish words
+germanl German dictionary
+n_hindu Hindu names
+hosts-tx Host names
+german German words
+iliad Nouns from the Iliad
+n_given2 Given names
+inet-mac Hostnames used more than once
+italian Italian words
+japanese Japanese words
+n_anglos Anglo-saxon surnames
+acr-diag ACR diagnostic terms
+algae Algae
+bacteria Bacteria
+colleges Oxford colleges
+movies Movie names
+ethnolog Ethnologue terms
+oz Australian words
+fungi Fungi
+latin Latin words
+koran Words from the Koran
+lcarrol Words from Lewis Carrol works
+microalg Microalgae
+movies2 Movie names, characters
+paradise.los Words from Paradise Lost
+python Words from Monty Python
+trek Words from Star Trek
+us-count US counties
+viruses Viruses
+world_fa Words from the CIA World Fact Book
+zipcodes Place names for Zipcodes
+n_male2 Male names
+french French words
+movie-ch Movie characters
+music-cl Classical music
+music-co Country music
+music-ja Jazz music
+music-ot Other music
+music-ro Rock music
+music-sh Musical shows
+croatian Croatian words
+names_hp Names and occurrence counts
+norse Norse names
+odyssey Nouns from the Odyssey
+n_other Other names
+polish Polish words
+rock-gro Names from a CD catalog
+russ_koi Russian words (KOI8)
+shakesp- Shakespearean characters
+spanish Spanish words
+statisti Words from Current Index of Statistics
+n_surna2 Surnames
+n_finnis Finnish names
+swahili Swahili words
+swedish Swedish words
+tech Words from a technical dictionary
+tolkien.wor Words from Tolkien
+usenet-l LoginID's from usenet
+usenet-m Machine names from usenet
+usenet-n Names from usenet
+uunet-si Sites from usenet
+congress Congresscritters
