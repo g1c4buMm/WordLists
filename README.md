@@ -1,6 +1,3 @@
 # WordLists
 
-
-são todas retiradas da internet
-
-wordlists
+Wordlists for hacking study.
